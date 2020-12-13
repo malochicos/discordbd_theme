@@ -42,7 +42,7 @@
   --interactive-muted: #777;
   --channels-default: #aaa;
   --header-secondary: #dfdfdf;
-  --background-primary: transparent;
+  --background-primary: *;
   --background-modifier-hover: rgba(255,255,255,0.075);
   --background-modifier-selected: rgba(255,255,255,0.125);
   --channels-default: var(--interactive-normal);
