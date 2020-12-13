@@ -1,10 +1,10 @@
 :root {
-  --app-bg: url(https://i.imgur.com/QALgrNJ.jpeg);
+  --app-bg: url(https://i.imgur.com/QALgrNJ.jpg);
   --app-blur: 6px;
   --app-margin: 24px;
   --app-radius: 8px;
-  --app-accent: #00a6ff;
-  --app-accent-rgb: 48, 48, 48;
+  --app-accent: #5c5c5c;
+  --app-accent-rgb: 92, 92, 92;
   --app-accent-text: #fff;
   --sidebar-color: rgba(0,0,0,0.0);
   --main-content-color: rgba(0,0,0,0.2);
