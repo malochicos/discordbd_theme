@@ -1,5 +1,5 @@
 :root {
-  --app-bg: url(https://freellustrustrations.s3.us-east-2.amazonaws.com/free-images/thumbimg_9855217thumbejpg.jpg);
+  --app-bg: url(https://i.imgur.com/QALgrNJ.jpeg);
   --app-blur: 6px;
   --app-margin: 24px;
   --app-radius: 8px;
@@ -2928,7 +2928,7 @@ input::-webkit-input-placeholder {
   margin: 295px 0 0 0; }
   .contentColumnDefault-1VQkGM .ace_editor:before {
     position: absolute;
-    content: ":root {\A\9--app-bg: url(https://freellustrustrations.s3.us-east-2.amazonaws.com/free-images/thumbimg_9855217thumbejpg.jpg) !important;\A\9--app-blur: 6px !important;\A\9--app-margin: 24px !important;\A\9--app-radius: 8px !important;\A\9--app-accent: #d73d3d !important;\A\9--app-accent-rgb: 215,61,61 !important;\A\9--app-accent-text: #000 !important;\A}";
+    content: ":root {\A\9--app-bg: url(https://i.imgur.com/QALgrNJ.jpeg) !important;\A\9--app-blur: 6px !important;\A\9--app-margin: 24px !important;\A\9--app-radius: 8px !important;\A\9--app-accent: #d73d3d !important;\A\9--app-accent-rgb: 215,61,61 !important;\A\9--app-accent-text: #000 !important;\A}";
     display: block;
     width: calc(100% - 32px);
     top: -295px;
