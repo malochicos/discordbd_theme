@@ -11,7 +11,7 @@
   --messages-color: rgba(0,0,0,0.4);
   --messages-radius: var(--app-radius);
   --messages-padding: 8px;
-  --mention-color: var(--app-accent);
+  --mention-color: #ffffff;
   --mention-alt: #5274e9;
   --notification-color: #fff;
   --textarea-color: 0,0,0;
@@ -23,16 +23,13 @@
   --card-color-hover: rgba(0,0,0,0.5);
   --card-color-select: rgba(0,0,0,0.7);
   --card-radius: var(--app-radius);
-  --button-color: var(--app-accent);
+  --button-color: #ffffff;
   --button-action-color: #000;
   --button-text-color: var(--app-accent-text);
   --button-radius: var(--app-radius);
-  --popout-color: rgba(0,0,0,0.55);
-  --popout-blur: 5px;
-  --popout-header-opacity: 0.3;
-  --popout-header-shadow: 0px 3px 9px 0px rgba(0,0,0,0.25);
-  --popout-radius: var(--app-radius);
-  --popout-shadow: 0 8px 10px 1px rgba(0,0,0,0.14), 0 3px 14px 2px rgba(0,0,0,0.12), 0 5px 5px -3px rgba(0,0,0,0.2);
+
+  
+  
   --nowplaying-color: 114,137,218;
   --streaming-color: 89,54,149;
   --spotify-color: 29,185,84;
