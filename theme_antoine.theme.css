@@ -3,10 +3,10 @@
   --app-blur: 6px;
   --app-margin: 24px;
   --app-radius: 8px;
-  --app-accent: #3a3a3a;
-  --app-accent-rgb: 58,58,58;
+  --app-accent: #00a6ff;
+  --app-accent-rgb: 0, 166, 255;
   --app-accent-text: #fff;
-  --sidebar-color: rgba(0,0,0,0.4);
+  --sidebar-color: rgba(0,0,0,0.0);
   --main-content-color: rgba(0,0,0,0.2);
   --messages-color: rgba(0,0,0,0.4);
   --messages-radius: var(--app-radius);
@@ -57,7 +57,7 @@
 
 /*
  *
- *	APP ELEMENTS
+ *  APP ELEMENTS
  *
  */
 body {
@@ -251,7 +251,7 @@ body {
 
 /*
  *
- *	MODALS
+ *  MODALS
  *
  */
 .appMount-3lHmkl [role=menu],
@@ -734,7 +734,7 @@ body {
 
 /*
  *
- *	CONTEXT MENU
+ *  CONTEXT MENU
  *
  */
 .item-1tOPte {
@@ -747,7 +747,7 @@ body {
 
 /*
  *
- *	BUTTONS
+ *  BUTTONS
  *
  */
 .button-38aScr {
@@ -857,7 +857,7 @@ body {
 
 /*
  *
- *	TOOLTIPS
+ *  TOOLTIPS
  *
  */
 [class*="theme-"] .tooltipBlack-PPG47z,
@@ -882,7 +882,7 @@ body {
 
 /*
  *
- *	TOASTS
+ *  TOASTS
  *
  */
 .bd-toasts {
@@ -913,7 +913,7 @@ body {
 
 /*
  *
- *	TITLEBARS
+ *  TITLEBARS
  *
  */
 .container-1r6BKw.themed-ANHk51 {
@@ -954,7 +954,7 @@ body {
 
 /*
  *
- *	INPUTS, TEXTAREAS, SELECTS
+ *  INPUTS, TEXTAREAS, SELECTS
  *
  */
 input,
@@ -1071,7 +1071,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	SWITCHES, CHECKBOXES, RADIOS
+ *  SWITCHES, CHECKBOXES, RADIOS
  *
  */
 .barFill-23-gu- {
@@ -1337,7 +1337,7 @@ input::-webkit-input-placeholder {
 
 /* CHECKBOXES */
 /*.checkbox-1ix_J3 {
-	border-radius: 50%;
+  border-radius: 50%;
 }*/
 [class*="theme-"] .checked-3_4uQ9 {
   background-color: var(--app-accent-text);
@@ -1388,7 +1388,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	CARDS
+ *  CARDS
  *
  */
 .cardPrimary-1Hv-to,
@@ -1411,7 +1411,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	SERVER LIST
+ *  SERVER LIST
  *
  */
 .wrapper-1Rf91z {
@@ -1549,7 +1549,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	CHANNELS LIST
+ *  CHANNELS LIST
  *
  */
 .platform-win .sidebar-2K8pFh {
@@ -1597,7 +1597,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	STATUS PICKER
+ *  STATUS PICKER
  *
  */
 .panels-j1Uci_ {
@@ -1605,7 +1605,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	VOICE CONNECTED
+ *  VOICE CONNECTED
  *
  */
 .content-1Wq3SX {
@@ -1619,7 +1619,7 @@ input::-webkit-input-placeholder {
   box-shadow: var(--popout-header-shadow); }
 
 /*.wrapper-2qzCYF {
-	background-color: var(--main-content-color);
+  background-color: var(--main-content-color);
 }*/
 .avatarSpeaking-2IGMRN,
 .border-3dQmSY.speaking-WDn8Wm,
@@ -1652,7 +1652,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	STREAMING
+ *  STREAMING
  *
  */
 .scroller-2TWLdF {
@@ -1670,7 +1670,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	CHAT AREA
+ *  CHAT AREA
  *
  */
 .chat-3bRxxu,
@@ -2085,7 +2085,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	EMOJI PICKER
+ *  EMOJI PICKER
  *
  */
 .contentWrapper-SvZHNd,
@@ -2093,7 +2093,7 @@ input::-webkit-input-placeholder {
   background-color: transparent; }
 
 /*.contentWrapper-SvZHNd {
-	background-color: var(--popout-color);
+  background-color: var(--popout-color);
 }*/
 .contentWrapper-SvZHNd .wrapper-1rqM3x:before {
   display: none; }
@@ -2162,7 +2162,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	MEMBERS LIST
+ *  MEMBERS LIST
  *
  */
 .members-1998pB,
@@ -2179,7 +2179,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	SEARCH RESULTS
+ *  SEARCH RESULTS
  *
  */
 .searchResultsWrap-3-pOjs {
@@ -2222,7 +2222,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	SERVER BOOST
+ *  SERVER BOOST
  *
  */
 .root-3R2ngo {
@@ -2255,7 +2255,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	USER SETTINGS
+ *  USER SETTINGS
  *
  */
 .layer-3QrUeG,
@@ -2478,7 +2478,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	SERVER SETTINGS
+ *  SERVER SETTINGS
  *
  */
 .container-1nZlH6 {
@@ -2663,7 +2663,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	SERVER DISCOVERY
+ *  SERVER DISCOVERY
  *
  */
 [class*="theme-"] .pageWrapper-1PgVDX {
@@ -2695,7 +2695,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	HOME TAB
+ *  HOME TAB
  *
  */
 .privateChannels-1nO12o,
@@ -2825,7 +2825,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	DIRECT MESSAGES
+ *  DIRECT MESSAGES
  *
  */
 .incomingCallInner-2VmFiR {
@@ -2848,7 +2848,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	SCREEN SHARE
+ *  SCREEN SHARE
  *
  */
 .wrapper-2qzCYF {
@@ -2907,7 +2907,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	BETTERDISCORD SETTINGS
+ *  BETTERDISCORD SETTINGS
  *
  */
 #bd-settings-sidebar .ui-tab-bar-item {
@@ -2943,7 +2943,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	SCROLLBARS
+ *  SCROLLBARS
  *
  */
 ::-webkit-scrollbar {
@@ -3006,7 +3006,7 @@ input::-webkit-input-placeholder {
 
 /*
  *
- *	SUPPORTED PLUGINS
+ *  SUPPORTED PLUGINS
  *
  */
 /* SUPPORTED PLUGINS -> CharCounter */
